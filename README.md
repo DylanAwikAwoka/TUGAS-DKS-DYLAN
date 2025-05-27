@@ -11,13 +11,6 @@ Berikut adalah cuplikan kode HTML tugas saya:
 </html>
 ```
 
-### Preview Tampilan
-
-![Preview](images/preview.png)
-<!-- Ganti dengan screenshot hasil HTML-mu -->
-
----
-
 ## Lihat Kode & Jalankan
 
 - [Alternatif: Jalankan dengan HTMLPreview](https://htmlpreview.github.io/?https://github.com/DylanAwikAwoka/TUGAS-DKS-DYLAN/blob/main/TUGAS%20DKS%20DYLAN%20240712776.html)
