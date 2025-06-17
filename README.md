@@ -2,7 +2,7 @@
 
 ## Preview
 
-Berikut adalah cuplikan kode HTML tugas saya membuat mind map:
+Berikut adalah cuplikan kode HTML tugas saya membuat mind map dks 7, 8, 9:
 ```html
 <!-- Potongan kode HTML -->
 <!DOCTYPE html>
